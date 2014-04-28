@@ -6,7 +6,7 @@ Ninja Hue Driver - Part Deux
 ```
 cd /opt/ninja/drivers
 git clone https://github.com/elliots/ninja-hue2.git
-cd ninja-hue
+cd ninja-hue2
 npm install
 ```
 
